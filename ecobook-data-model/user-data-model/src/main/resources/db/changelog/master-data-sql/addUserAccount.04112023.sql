@@ -1,0 +1,2 @@
+INSERT INTO user_account(username, password, role, first_name, last_name, dob, address, phone_number)
+VALUES ('duongnt', 'duong@123', 'USER', 'Duong', 'Nguyen Thanh', '2001-05-15', 'Viet Nam', '0123456789')
